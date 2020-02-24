@@ -1,0 +1,31 @@
+_repo: The-Customs-Lounge_61424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proulx, Annie
+    aliases:
+    - Proulx, E.A.
+    - Proulx, Edna Annie
+    - Proulx, E. Annie
+    birthdate: 1935
+    gutenberg_agent_id: '51419'
+    url: http://www.gutenberg.org/2009/agents/51419
+    wikipedia: https://en.wikipedia.org/wiki/Annie_Proulx
+description: ''
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Customs Lounge
+url: http://www.gutenberg.org/ebooks/61424
